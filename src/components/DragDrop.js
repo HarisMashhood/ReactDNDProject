@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Picture from './Picture';
-import "../App.css";
+import "../App"
 import { useDrop } from 'react-dnd'
 const PictureList = [
     {
